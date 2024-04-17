@@ -19,7 +19,15 @@ https://spacy.io/models/en   , #download en_core_web_lg to use
 
 
 #for installing requiremnts
-pip install -r requiremnts.txt
+pip install -r requirements.txt
 
 #to run th ecode
 python app.py
+
+
+
+
+
+
+#for hosting the project on aws
+
